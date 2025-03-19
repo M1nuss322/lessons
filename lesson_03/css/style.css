@@ -1,0 +1,218 @@
+@import url(reset.css);
+
+.header__title {
+	color: red;
+}
+
+.header__nav {
+	color: blue;
+}
+.header__nav .header__list .header__item .header__link{
+	color: blueviolet;
+}
+.header__list li {
+	color: hotpink;
+}
+.header__item  a {
+	color: green;
+}
+a.header__link {
+	color: yellow;
+}
+.header__link {
+	color: orange;
+}
+
+/* div p{
+	color: blue;	
+} */
+
+
+.block__title {
+	color: green;
+}
+.block__subtitle {
+	color: red;
+}
+
+.block__text {
+	color: cadetblue;
+}
+.block__text2 .block__text2-link {
+	color: brown;
+}
+.block__text2-link {
+	color: blue;
+}
+.block2 .block2__content .block2__text2 {
+	color: darkmagenta;
+}
+
+.block2__title {
+	color: red;
+}
+.block2__subtitle {
+	color: blue;
+}
+.block2__subtitle h3{
+color: chartreuse;
+}
+
+.block2__text {
+	color: indigo;
+}
+.block2__text-link { color: rgb(229, 9, 229);
+}
+.block2__text2 {
+	color: firebrick;
+}
+.block2__text2-link { color: chartreuse;
+}
+.block2__text3 .block2__text3-link {color: fuchsia;
+
+}
+.block2__text3-link {
+	color: blue;
+}
+.block3 {
+	color: blueviolet;
+}
+.block3__content > p {
+	color: green;
+}
+.block3__title h2 {
+	color: yellow;
+}
+.block3__subtitle { 
+	color: rgb(7, 235, 132);
+}
+
+p.block3__text {
+	color: rgb(0, 255, 42);
+}
+.text {
+	color: rgb(0, 255, 42);
+}
+.block3__text-link  {
+	color: rgb(132, 7, 235);
+}
+.block3__text2 {
+	color: rgb(254, 0, 0);
+}
+p.block3__text3 {
+	color: rgb(254, 0, 0);
+}
+.block3__text3-link  {
+	color: aqua;
+	
+
+}
+
+.block4__content {
+	color: red;
+}
+.block4__title  {color: aqua;
+}
+.block4__title h2 {
+	color: blue;
+}
+
+.block4__text,
+.block4__text2 {
+color: chartreuse;
+}
+.block4__text-link { color: rgb(254, 0, 0);
+}
+ 
+
+.block5 {
+	color: hotpink;
+}
+.block5 .block5__content {
+color: cadetblue;
+}
+.block5__title h2 {
+	color: chocolate;
+}
+
+.block5__items p {
+	color: darkmagenta;
+}
+p.block5__items-text {
+	color: darkorange;
+}
+.block5__items-link {
+	color: red;
+
+}
+.block5__items .block5__items-text2 {
+	color: red;
+}
+.block5__items .block5__items-text3 {
+	color: green;
+}
+p.block5__items-text4  {
+	color: rgb(217, 43, 226);
+
+}
+.block6 {
+	color: red;
+}
+.block6 .block6__content {
+	color: aquamarine;
+}
+.block6 .block6__content .block6__content-items {
+	color: blue;
+}
+.block6__title h2 {
+	color: rgb(43, 226, 147);
+}
+
+.block6__text {
+	color: rgb(226, 43, 43);
+}
+p.block6__text {
+	color: rgb(43, 226, 156);
+}
+.block6__text-link {
+	color: red;
+}
+.block6__text2,.block6__text4,.block6__text3,.block6__text6 {
+	color: rgb(226, 43, 168);
+}
+ 
+
+
+
+.footer h2 {
+	color: rgb(43, 226, 147);
+}
+.content {
+	color: blue;
+}
+.content-items {
+	color: blueviolet;
+}
+.content__title  {
+	color: black;
+}
+.content__nav ul {
+	color: red;
+}
+.content__list li {
+	color: aqua;
+}
+.footer__list .footer__item  {
+	color: blue;
+
+}
+.footer__list .footer__item   {
+	color: rgb(204, 0, 255);
+
+}
+
+.footer__item a { color: rgb(7, 235, 132);
+}
+a.footer__item-link {
+	color: rgb(37, 7, 235);
+}
